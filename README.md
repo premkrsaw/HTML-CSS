@@ -1,4 +1,4 @@
-About
+
 This is a Parallax Website I created using just HTML and CSS. It uses the parallax scrolling effect, which makes the background move at a different speed than the content on top. This gives the site a cool 3D effect while scrolling.
 
 Features
